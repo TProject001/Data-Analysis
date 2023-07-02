@@ -1,1 +1,4 @@
+DataFrame
+=>DataFrame concept in python is similar to that of R programming language.
+=>It is a collection of Series combined together to share the same index position.
 
